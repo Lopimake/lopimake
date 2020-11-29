@@ -1,10 +1,6 @@
-### Hi I'm Lopimake
-
-### Contact me ~
+### Hi I'm lopimake
 
 
-
-<br />
 
 ### What i work with ~
 <img align="left" alt="TypeScript" width="30px" src="https://github.com/github/explore/blob/master/topics/typescript/typescript.png" />
@@ -19,6 +15,6 @@
 <br>
   <summary>:zap: Github Stats</summary>
   <br>
-  <img align="left" alt="Lopimake's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LopimakeA&show_icons=true&theme=dark&count_private=true"/>
+  <img align="left" alt="Lopimake's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lopimake&show_icons=true&theme=dark&count_private=true"/>
   <br>
-  <img align="left" alt="Lopimake's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?
+  <img align="left" alt="Lopimake's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lopimake&layout=compact&theme=dark&count_private=true"/>
