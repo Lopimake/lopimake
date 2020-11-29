@@ -2,7 +2,7 @@
 
 ### Contact me ~
 
-[<img align="left" alt="Lopimake#5807 | Discord" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://lightcord.org/discord)
+
 
 <br />
 
@@ -19,6 +19,6 @@
 <br>
   <summary>:zap: Github Stats</summary>
   <br>
-  <img align="left" alt="JeanOUINA's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JeanOUINA&show_icons=true&theme=dark&count_private=true"/>
+  <img align="left" alt="Lopimake's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LopimakeA&show_icons=true&theme=dark&count_private=true"/>
   <br>
-  <img align="left" alt="JeanOUINA's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanOUINA&layout=compact&theme=dark&count_private=true"/>
+  <img align="left" alt="Lopimake's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?
