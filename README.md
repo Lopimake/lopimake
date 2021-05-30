@@ -19,8 +19,9 @@
   <img align="left" alt="Lopimake's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lopimake&layout=compact&theme=dark&count_private=true"/>
   
 ---
+</p>
 <img src="https://discord.c99.nl/widget/theme-1/806940419636199496.png"> </a>
-
+</p>
 
 ---
 
