@@ -8,8 +8,8 @@
 
 ---
 
- <a href="https://github.com/apoow3b">
-<img src="https://discord.c99.nl/widget/theme-1/758561030644170752.png"> </a>
+ <a href="https://github.com/Lopimake">
+<img src="https://discord.c99.nl/widget/theme-1/806940419636199496.png"> </a>
 
 ---
 
