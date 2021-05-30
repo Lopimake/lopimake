@@ -4,7 +4,7 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lopimake&theme=tokyonight)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=apoow3b&theme=tokyonight)
+
 - 💻 I am a young student and I live in France.
 - 🔩 I love developed
 
