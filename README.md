@@ -17,16 +17,20 @@
   <img align="left" alt="Lopimake's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lopimake&show_icons=true&theme=dark&count_private=true"/>
   <br>
   <img align="left" alt="Lopimake's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lopimake&layout=compact&theme=dark&count_private=true"/>
-  
+
 ---
 
  <a href="https://github.com/apoow3b">
-<img align="left" src=https://discord.c99.nl/widget/theme-1/806940419636199496.png"/> 
+<img src="https://discord.c99.nl/widget/theme-1/758561030644170752.png"> </a>
 
 ---
 
-
+<p align="center"> 
   Visitor count<br>
-  <img <img align="left" src"https://profile-counter.glitch.me/Lopimake/count.svg" />
+  <img src="https://profile-counter.glitch.me/khddev/count.svg" />
+</p>
 
+---
 
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
