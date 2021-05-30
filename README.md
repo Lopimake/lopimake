@@ -21,12 +21,12 @@
 ---
 
  <a href="https://github.com/apoow3b">
-<img align="left" alt=https://discord.c99.nl/widget/theme-1/806940419636199496.png"> </a>
+<img align="left" src=https://discord.c99.nl/widget/theme-1/806940419636199496.png"> </a>
 
 ---
 
 <p align="center"> 
   Visitor count<br>
-  <img <img align="left" alt"https://profile-counter.glitch.me/Lopimake/count.svg" />
+  <img <img align="left" src"https://profile-counter.glitch.me/Lopimake/count.svg" />
 </p>
 
