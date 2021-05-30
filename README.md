@@ -19,7 +19,8 @@
   <img align="left" alt="Lopimake's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lopimake&layout=compact&theme=dark&count_private=true"/>
   
   
-### s sltsv
+- 💻 I am a young student and I live in France.
+- 🔩 I love developed
 
 
 
