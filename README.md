@@ -19,7 +19,11 @@
   <img align="left" alt="Lopimake's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lopimake&layout=compact&theme=dark&count_private=true"/>
   
   
-  <p align="center"> 
+---
+
+<p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Lopimake/count.svg" />
+  <img src="https://profile-counter.glitch.me/khddev/count.svg" />
 </p>
+
+---
