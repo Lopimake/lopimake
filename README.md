@@ -19,7 +19,7 @@
   <img align="left" alt="Lopimake's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lopimake&layout=compact&theme=dark&count_private=true"/>
   
   <table><tr><td valign="top" width="33%">
----
+
 
 <p align="center"> 
   Visitor count<br>
