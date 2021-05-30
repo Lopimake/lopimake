@@ -20,12 +20,13 @@
   
 ---
 
+ <a href="https://github.com/apoow3b">
+<img src="https://discord.c99.nl/widget/theme-1/758561030644170752.png"> </a>
+
+---
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Lopimake/count.svg" />
+  <img src="https://profile-counter.glitch.me/khddev/count.svg" />
 </p>
-
----
-<p align="center"> 
-<img src="https://discord.c99.nl/widget/theme-1/806940419636199496.png"> </a>
+##
