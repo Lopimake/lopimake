@@ -17,11 +17,12 @@
   <img align="left" alt="Lopimake's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lopimake&show_icons=true&theme=dark&count_private=true"/>
   <br>
   <img align="left" alt="Lopimake's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lopimake&layout=compact&theme=dark&count_private=true"/>
-
+  
 ---
 
- <a href="https://github.com/apoow3b">
-<img src="https://discord.c99.nl/widget/theme-1/758561030644170752.png"> </a>
+<img align="right" alt="Apoo's Github Stats" src="https://discord.c99.nl/widget/theme-1/806940419636199496.png"" />
+
+
 
 ---
 
