@@ -1,6 +1,6 @@
 <h1><Hi there, I'm Lopimake</h1>
 
-<img align="right" alt="Apoo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=apoow3b&theme=tokyonight&show_icons=true&hide_border=true" />
+<img align="right" alt="Apoo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lopimake&theme=tokyonight&show_icons=true&hide_border=true" />
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lopimake&theme=tokyonight)
 
