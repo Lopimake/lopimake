@@ -6,7 +6,7 @@
 
 
 ### My discord profile :
- <img align="left" alt="Lopimake Discord Profile" src="https://discord.c99.nl/widget/theme-1/806940419636199496.png"/>
+- <img align="left" alt="Lopimake Discord Profile" src="https://discord.c99.nl/widget/theme-1/806940419636199496.png"/> 
 
 <br />
 
