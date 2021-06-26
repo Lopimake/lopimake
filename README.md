@@ -10,7 +10,8 @@
 
 <br />
 <br>
-### What i work with ~
+
+- ### What i work with ~
 
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
