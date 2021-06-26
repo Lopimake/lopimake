@@ -22,11 +22,11 @@
 
 <br/>
 <br>
-  <summary> ### :zap: Github Stats</summary>
+  <summary>:zap: Github Stats</summary>
   <br>
   <img align="left" alt="Lopimake Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lopimake&show_icons=true&theme=dark&count_private=true"/>
   <br>
-  <img align="left" alt="JeanOUINA's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lopimake&layout=compact&theme=dark&count_private=true"/>
+  <img align="left" alt="Lopimake Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lopimake&layout=compact&theme=dark&count_private=true"/>
   <br/>
   <br>
   
