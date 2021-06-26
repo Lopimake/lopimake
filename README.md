@@ -22,7 +22,7 @@
 
 <br/>
 <br>
-  <summary>:zap: Github Stats</summary>
+  <summary> ### :zap: Github Stats</summary>
   <br>
   <img align="left" alt="Lopimake Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lopimake&show_icons=true&theme=dark&count_private=true"/>
   <br>
