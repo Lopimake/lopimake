@@ -1,8 +1,8 @@
 ### Hi I'm Lopimake
  <img align="left" alt="Lopimake Discord Profile" src="https://discord.c99.nl/widget/theme-1/806940419636199496.png"/>
-
+--
 <br />
-<br>
+
 ### What i work with ~
 
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
